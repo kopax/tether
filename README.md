@@ -1,5 +1,7 @@
 ## Tether
 
+Include @cvlmtg PR240 https://github.com/HubSpot/tether/pull/240
+
 [![GitHub
 version](https://badge.fury.io/gh/HubSpot%2Ftether.svg)](http://badge.fury.io/gh/HubSpot%2Ftether)
 

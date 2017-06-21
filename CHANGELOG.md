@@ -1,3 +1,7 @@
+## v1.4.0-fix-PR240
+
+- release to npm as tether-fix
+
 ## v1.3.0
 - Tether instances now fire an 'update' event when attachments change due to constraints (#119)
 
