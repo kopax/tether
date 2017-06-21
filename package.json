@@ -1,6 +1,6 @@
 {
   "name": "tether-fix",
-  "version": "1.4.0-fix-PR240",
+  "version": "1.4.0-fix-es",
   "description": "A client-side library to make absolutely positioned elements attach to elements in the page efficiently.",
   "authors": [
     "Zack Bloom <zackbloom@gmail.com>",
